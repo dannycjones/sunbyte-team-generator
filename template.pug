@@ -9,5 +9,7 @@ each team in teams
             img.team-member-object(src=avatarURL, alt='', width='64', height='64')
           .team-member-body
             h4.media-heading= member.name
-            p= member.title
-            p= member.from
+            if member.title
+              p= member.title
+            if member.from
+              p= member.from
