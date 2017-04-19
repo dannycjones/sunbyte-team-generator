@@ -1,0 +1,45 @@
+{
+  "teams": [
+    {
+      "name": "Team Members",
+      "members": [
+        {
+          "name": "Yun Hang Cho",
+          "title": "Team Leader",
+          "from": "Dept. of Civil and Structural Engineering, University of Sheffield, UK"
+        },
+        {
+          "name": "Helena Livesey",
+          "title": "Mechanical Analysis and Outreach",
+          "from": "Dept. of Mechanical Engineering, University of Sheffield, UK"
+        },
+        {
+          "name": "Ana-Maria Badilita",
+          "title": "3D Printing",
+          "from": "Dept. of Aerospace Engineering, University of Sheffield, UK"
+        },
+        {
+          "name": "Petrica Taras",
+          "title": "Positioning & Stabilization",
+          "from": "Dept. of Electronic & Electrical Engineering, University of Sheffield, UK"
+        },
+        {
+          "name": "Fernando Gonzalez",
+          "title": "Positioning & Stabilization",
+          "from": "Dept. of Electronic & Electrical Engineering, University of Sheffield, UK"
+        },
+        {
+          "name": "Mahed Javed",
+          "title": "Image Processing & Acquisition",
+          "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
+        },
+        {
+          "name": "Daniel Carl Jones",
+          "title": "Website",
+          "avatar-url": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/4976211-150x150.jpg",
+          "from": "Dept. of Computer Science, University of Sheffield, UK"
+        }
+      ]
+    }
+  ]
+}
