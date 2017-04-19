@@ -11,5 +11,8 @@
     "eslint-plugin-jsx-a11y": "^4.0.0",
     "eslint-plugin-react": "^6.10.3",
     "pug": "^2.0.0-beta.12"
+  },
+  "scripts": {
+    "compile": "node index.js"
   }
 }
