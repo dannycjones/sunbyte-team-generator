@@ -1,7 +1,7 @@
 {
-  "teams": [
+  "currentTeams": [
     {
-      "name": "Team Members",
+      "name": "Student Team",
       "members": [
         {
           "name": "Yun Hang Cho",
@@ -155,5 +155,6 @@
         }
       ]
     }
-  ]
+  ],
+  "previousMembers": []
 }

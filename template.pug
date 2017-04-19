@@ -1,5 +1,6 @@
-each team in teams
-  h1= team.name
+h1 The Team
+each team in currentTeams
+  h2= team.name
   ul.no-bullets.team-box
     each member in team.members
       li
@@ -13,3 +14,21 @@ each team in teams
               p= member.title
             if member.from
               p= member.from
+
+h1 Student Team Structure
+p Here is the list of teams and their leaders.
+ul
+  li Mechanical Team led by Ana-Maria Badilita
+  li Scientifical Team led by Alexander Hamilton
+  li Outreach Team led by Ana-Maria Badilita
+  li Electrical Team led by Fernando Alvarez-Gonzalez
+  li Software Team led by Petrica Taras
+  li Economics Team led by Jack He
+    
+h1 Former Team members
+if previousMembers.length <= 0
+  p No former members.
+else
+  ul
+    each member in previousMembers
+      li= member.name
