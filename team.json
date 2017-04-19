@@ -36,10 +36,18 @@
         {
           "name": "Daniel Carl Jones",
           "title": "Website",
-          "avatar-url": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/4976211-150x150.jpg",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/4976211-150x150.jpg",
           "from": "Dept. of Computer Science, University of Sheffield, UK"
         }
       ]
+    },
+    {
+      "name": "Academic Advisors",
+      "members": []
+    },
+    {
+      "name": "Professional Support",
+      "members": []
     }
   ]
 }
