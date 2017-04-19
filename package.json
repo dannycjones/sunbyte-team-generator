@@ -1,0 +1,15 @@
+{
+  "name": "sunbyte-team-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Daniel Carl Jones <dcjones1@sheffield.ac.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "pug": "^2.0.0-beta.12"
+  }
+}
