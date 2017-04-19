@@ -5,4 +5,4 @@ const compiledFunction = pug.compileFile('template.pug');
 
 const teamData = JSON.parse(fs.readFileSync('team.json').toString());
 
-console.log(compiledFunction(teamData));
+process.stdout.write(compiledFunction(teamData));
