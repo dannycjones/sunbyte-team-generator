@@ -6,9 +6,9 @@ each team in currentTeams
     each member in team.members
       li
         .team-member
-          .team-member-left
-            - let avatarURL = member.avatarURL || 'http://placehold.it/64x64'
-            img.team-member-object(src=avatarURL, alt='', width='64', height='64')
+          if member.avatarURL
+            .team-member-left
+              img.team-member-object(src=member.avatarURL, alt='Photo of ' + member.name)
           .team-member-body
             h4.media-heading= member.name
             if member.title
