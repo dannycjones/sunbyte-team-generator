@@ -5,4 +5,8 @@ const compiledFunction = pug.compileFile('template.pug');
 
 const teamData = JSON.parse(fs.readFileSync('team.json').toString());
 
-process.stdout.write(compiledFunction(teamData));
+if (process.argv[2]) {
+  fs.writeFileSync(process.argv[2], compiledFunction(teamData));
+} else {
+  process.stdout.write(compiledFunction(teamData));
+}

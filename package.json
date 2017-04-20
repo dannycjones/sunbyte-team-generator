@@ -13,6 +13,6 @@
     "pug": "^2.0.0-beta.12"
   },
   "scripts": {
-    "compile": "node index.js"
+    "compile": "node index.js compiled.html"
   }
 }
