@@ -34,16 +34,6 @@
           "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
         },
         {
-          "name": "Christan Hare",
-          "title": "Positioning, Stabilization & 3D Printing",
-          "from": "Dept. of Electronic & Electical Engineering, University of Sheffield, UK"
-        },
-        {
-          "name": "He Tianyou",
-          "title": "Financing, Marketing, & Front-end web development",
-          "from": "Dept. of Economics, University of Sheffield, UK"
-        },
-        {
           "name": "Anton Permiakov",
           "title": "Materials & 3D Printing",
           "from": "Dept. of Materials Science & Engineering, University of Sheffield, UK"
@@ -53,20 +43,12 @@
           "from": "Dept. of Mathematics, Physicals & Electical Engineering, Northumbria University, UK"
         },
         {
-          "name": "Andrew Baker",
-          "from": "Dept. of Aerospace Engineering, University of Sheffield, UK"
-        },
-        {
           "name": "Rosanna Tilbrook",
           "from": "Dept. of Physics & Astronomy, University of Sheffield, UK"
         },
         {
           "name": "Lauren Rhodes",
           "from": "Dept. of Physics & Astronomy, University of Sheffield, UK"
-        },
-        {
-          "name": "Rahul Sharma",
-          "from": "School of Mathematics & Statistics, University of Sheffield, UK"
         },
         {
           "name": "Michael Portnell",
@@ -86,6 +68,58 @@
           "title": "Website",
           "avatarURL": "http://gravatar.com/avatar/5331288067c9bb83ee693af6fdbdefc8?s=64",
           "from": "Dept. of Computer Science, University of Sheffield, UK"
+        },
+        {
+          "name": "Sanziana Chiorescu",
+          "from": "Dept. of Computer Science, University of Sheffield, UK"
+        },
+        {
+          "name": "Eric Cheok",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Youssef EIAshry",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Joycelyn Fontanilla",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "James Holden",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Abhinav Kongari",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Mate Lukacs",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Gabriel Monteiro",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Shubham Patil",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Marwan Taher",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Eno-obong Ukpong",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Ioan-Iulian Vizireanu",
+          "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Mohamed Yaqoob",
+          "from": "University of Sheffield, UK"
         }
       ]
     },
@@ -156,5 +190,29 @@
       ]
     }
   ],
-  "previousMembers": []
+  "previousMembers": [
+    {
+      "name": "Christan Hare",
+      "title": "Positioning, Stabilization & 3D Printing",
+      "from": "Dept. of Electronic & Electical Engineering, University of Sheffield, UK"
+    },
+    {
+      "name": "He Tianyou",
+      "title": "Financing, Marketing, & Front-end web development",
+      "from": "Dept. of Economics, University of Sheffield, UK"
+    },
+    {
+      "name": "Andrew Baker",
+      "from": "Dept. of Aerospace Engineering, University of Sheffield, UK"
+    },
+    {
+      "name": "Rahul Sharma",
+      "from": "School of Mathematics & Statistics, University of Sheffield, UK"
+    },
+    {
+      "name": "Navtej Dhot",
+      "title": "3D Visulization",
+      "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
+    }
+  ]
 }
