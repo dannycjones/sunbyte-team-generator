@@ -1,7 +1,18 @@
 // This code is generated using a generator tool. Find out more: https://github.com/dannycjones/sunbyte-team-generator
-h1 The Team
+
+h1 Student Team Structure
+p Here is the list of teams and their leaders.
+ul
+  li The project is led by Yun Hang Cho
+  li Mechanical Team led by Ana-Maria Badilita
+  li Scientifical Team led by Alexander Hamilton
+  li Outreach Team led by Ana-Maria Badilita
+  li Electrical Team led by Fernando Alvarez-Gonzalez
+  li Software Team led by Petrica Taras
+  li Economics Team led by Jack He
+
 each team in currentTeams
-  h2= team.name
+  h1= team.name
   ul.no-bullets.team-box
     each member in team.members
       li
@@ -15,16 +26,6 @@ each team in currentTeams
               p= member.title
             if member.from
               p= member.from
-
-h1 Student Team Structure
-p Here is the list of teams and their leaders.
-ul
-  li Mechanical Team led by Ana-Maria Badilita
-  li Scientifical Team led by Alexander Hamilton
-  li Outreach Team led by Ana-Maria Badilita
-  li Electrical Team led by Fernando Alvarez-Gonzalez
-  li Software Team led by Petrica Taras
-  li Economics Team led by Jack He
     
 h1 Former Team members
 if previousMembers.length <= 0
