@@ -6,31 +6,37 @@
         {
           "name": "Yun Hang Cho",
           "title": "Team Leader",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image40.jpg",
           "from": "Dept. of Civil and Structural Engineering, University of Sheffield, UK"
         },
         {
           "name": "Helena Livesey",
           "title": "Mechanical Analysis and Outreach",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image08.jpg",
           "from": "Dept. of Mechanical Engineering, University of Sheffield, UK"
         },
         {
           "name": "Ana-Maria Badilita",
           "title": "3D Printing",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image12.jpg",
           "from": "Dept. of Aerospace Engineering, University of Sheffield, UK"
         },
         {
           "name": "Petrica Taras",
           "title": "Positioning & Stabilization",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image75.jpg",
           "from": "Dept. of Electronic & Electrical Engineering, University of Sheffield, UK"
         },
         {
           "name": "Fernando Gonzalez",
           "title": "Positioning & Stabilization",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image79.jpg",
           "from": "Dept. of Electronic & Electrical Engineering, University of Sheffield, UK"
         },
         {
           "name": "Mahed Javed",
           "title": "Image Processing & Acquisition",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image26.png",
           "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
         },
         {
@@ -40,22 +46,27 @@
         },
         {
           "name": "Richard Cook",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image48.jpg",
           "from": "Dept. of Mathematics, Physicals & Electical Engineering, Northumbria University, UK"
         },
         {
           "name": "Rosanna Tilbrook",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image35.jpg",
           "from": "Dept. of Physics & Astronomy, University of Sheffield, UK"
         },
         {
           "name": "Lauren Rhodes",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image54.jpg",
           "from": "Dept. of Physics & Astronomy, University of Sheffield, UK"
         },
         {
           "name": "Michael Portnell",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image30.jpg",
           "from": "Dept. of Mechanical Engineering, University of Sheffield, UK"
         },
         {
           "name": "Alex Hamilton",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image93.jpg",
           "from": "Dept. of Physics & Astrophysics, University of Hull, UK"
         },
         {
@@ -71,54 +82,67 @@
         },
         {
           "name": "Sanziana Chiorescu",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/sanzi.jpg",
           "from": "Dept. of Computer Science, University of Sheffield, UK"
         },
         {
           "name": "Eric Cheok",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image53.png",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "Youssef EIAshry",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image65.jpg",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "Joycelyn Fontanilla",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image74.jpg",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "James Holden",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image91.jpg",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "Abhinav Kongari",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image51-e1492715413417.jpg",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "Mate Lukacs",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image44.png",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "Gabriel Monteiro",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image63.jpg",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "Shubham Patil",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image43.jpg",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "Marwan Taher",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image11.png",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "Eno-obong Ukpong",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image78.jpg",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "Ioan-Iulian Vizireanu",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image34.png",
           "from": "University of Sheffield, UK"
         },
         {
           "name": "Mohamed Yaqoob",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image32.jpg",
           "from": "University of Sheffield, UK"
         }
       ]
@@ -181,6 +205,7 @@
         },
         {
           "name": "Dr Stuart Wrigley",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/s.wrigley.png",
           "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
         },
         {
@@ -203,6 +228,7 @@
     },
     {
       "name": "Andrew Baker",
+      "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image31.jpg",
       "from": "Dept. of Aerospace Engineering, University of Sheffield, UK"
     },
     {
