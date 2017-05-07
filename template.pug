@@ -4,14 +4,15 @@ div(style='display:none;')
 
 h1 Student Team Structure
 p Here is the list of teams and their leaders.
-ul
-  li The project is led by Yun Hang Cho
-  li Mechanical Team led by Ana-Maria Badilita
-  li Scientifical Team led by Alexander Hamilton
-  li Outreach Team led by Ana-Maria Badilita
-  li Electrical Team led by Fernando Alvarez-Gonzalez
-  li Software Team led by Petrica Taras
-  li Economics Team led by Jack He
+ul.no-bullets.subteam-box
+  each subTeam in subTeams
+    li
+      .team-member
+        if subTeam.leader.avatarURL
+          .team-member-left
+            img.team-member-object(src=subTeam.leader.avatarURL, alt='Photo of ' + subTeam.leader.name)
+        .team-member-body
+          p= 'The ' + subTeam.name + ' is led by ' + subTeam.leader.name
 
 each team in currentTeams
   h1= team.name

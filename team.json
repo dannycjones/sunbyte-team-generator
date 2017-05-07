@@ -1,4 +1,58 @@
 {
+  "subTeams": [
+    {
+      "name": "project",
+      "leader": {
+        "name": "Yun Hang Cho",
+        "title": "Team Leader",
+        "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image40.jpg",
+        "from": "Dept. of Civil and Structural Engineering, University of Sheffield, UK"
+      }
+    },
+    {
+      "name": "Mechanical Team",
+      "leader": {
+        "name": "Ana-Maria Badilita",
+        "title": "3D Printing",
+        "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image12.jpg",
+        "from": "Dept. of Aerospace Engineering, University of Sheffield, UK"
+      }
+    },
+    {
+      "name": "Scientifical Team",
+      "leader": {
+        "name": "Alex Hamilton",
+        "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image93.jpg",
+        "from": "Dept. of Physics & Astrophysics, University of Hull, UK"
+      }
+    },
+    {
+      "name": "Outreach Team",
+      "leader": {
+        "name": "Joycelyn Fontanilla",
+        "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image74.jpg",
+        "from": "University of Sheffield, UK"
+      }
+    },
+    {
+      "name": "Electrical Team",
+      "leader": {
+        "name": "Fernando Gonzalez",
+        "title": "Positioning & Stabilization",
+        "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image79.jpg",
+        "from": "Dept. of Electronic & Electrical Engineering, University of Sheffield, UK"
+      }
+    },
+    {
+      "name": "Software Team",
+      "leader": {
+        "name": "Petrica Taras",
+        "title": "Positioning & Stabilization",
+        "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image75.jpg",
+        "from": "Dept. of Electronic & Electrical Engineering, University of Sheffield, UK"
+      }
+    }
+  ],
   "currentTeams": [
     {
       "name": "Student Team",
