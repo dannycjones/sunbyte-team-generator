@@ -42,6 +42,7 @@
         {
           "name": "Anton Permiakov",
           "title": "Materials & 3D Printing",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/Anton-Permyakov-Materials-Engineer.jpg",
           "from": "Dept. of Materials Science & Engineering, University of Sheffield, UK"
         },
         {
@@ -70,14 +71,9 @@
           "from": "Dept. of Physics & Astrophysics, University of Hull, UK"
         },
         {
-          "name": "Navtej Dhot",
-          "title": "3D Visulization",
-          "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
-        },
-        {
           "name": "Daniel Carl Jones",
           "title": "Website",
-          "avatarURL": "http://gravatar.com/avatar/5331288067c9bb83ee693af6fdbdefc8?s=64",
+          "avatarURL": "http://gravatar.com/avatar/5331288067c9bb83ee693af6fdbdefc8?s=128",
           "from": "Dept. of Computer Science, University of Sheffield, UK"
         },
         {
@@ -152,42 +148,52 @@
       "members": [
         {
           "name": "Dr Viktor Fedun",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/Viktor-Fedun.jpg",
           "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
         },
         {
           "name": "Dr Gary Verth",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/Gary-Verth.jpg",
           "from": "School of Mathematics & Statistics, University of Sheffield, UK"
         },
         {
           "name": "Dr Eamon Scullion",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/Eamon-Scullion.jpg",
           "from": "Dept. of Mathematics, Physics & Electrical Engineering, Northumbria University, UK"
         },
         {
           "name": "Dr Sergiy Shelyag",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/Sergiu-Shelyag.jpg",
           "from": "Dept. of Mathematics, Physics & Electrical Engineering, Northumbria University, UK"
         },
         {
           "name": "Dr Dave Jess",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/David-Jess.jpg",
           "from": "Dept. of Mathematics & Physics, Queens University Belfast, UK"
         },
         {
           "name": "Dr Sergei Zharkov",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/Sergei-Zharkov.jpg",
           "from": "Dept. of Physics & Astrophysics, University of Hull, UK"
         },
         {
           "name": "Dr George Panoutsos",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/George-Panoutsos.jpg",
           "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
         },
         {
           "name": "Dr James McLaughlin",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/James-Mclaughlin.jpg",
           "from": "Dept. of Mathematics, Physics & Electrical Engineering, Northumbria University, UK"
         },
         {
           "name": "Dr Richard Morton",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/Richard-Morton.jpg",
           "from": "Dept. of Mathematics, Physics & Electrical Engineering, Northumbria University, UK"
         },
         {
           "name": "Dr Charles Lord",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/Charles-Lord.jpg",
           "from": "Dept. of Mechanical Engineering, University of Sheffield, UK"
         }
       ]
@@ -201,6 +207,7 @@
         },
         {
           "name": "Mrs Jaye Taylor",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/Jaye-Taylor.jpg",
           "from": "Dept. of Automatic Control & Systems Engineering"
         },
         {
@@ -219,6 +226,7 @@
     {
       "name": "Christan Hare",
       "title": "Positioning, Stabilization & 3D Printing",
+      "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/05/Chris-Hare-Electronic-and-Electrical-Engineer.jpg",
       "from": "Dept. of Electronic & Electical Engineering, University of Sheffield, UK"
     },
     {
@@ -230,15 +238,6 @@
       "name": "Andrew Baker",
       "avatarURL": "http://sunbyte.group.shef.ac.uk/wordpress/wp-content/uploads/2017/04/image31.jpg",
       "from": "Dept. of Aerospace Engineering, University of Sheffield, UK"
-    },
-    {
-      "name": "Rahul Sharma",
-      "from": "School of Mathematics & Statistics, University of Sheffield, UK"
-    },
-    {
-      "name": "Navtej Dhot",
-      "title": "3D Visulization",
-      "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
     }
   ]
 }
