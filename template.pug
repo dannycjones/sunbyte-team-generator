@@ -1,6 +1,9 @@
 div(style='display:none;')
+  // ===========================================================================
+  // DO NOT EDIT THIS CODE MANUALLY. It may be overwritten.
   // This code is generated using a generator tool. Find out more: https://github.com/dannycjones/sunbyte-team-generator
   // This is in a hidden div since Wordpress really dislikes HTML comments
+  // ===========================================================================
 
 h1 Student Team Structure
 p Here is the list of teams and their leaders.
@@ -28,7 +31,12 @@ each team in currentTeams
             if member.title
               p= member.title
             if member.from
-              p= member.from
+              if typeof(member.from) === 'string'
+                p= member.from
+              if member.from.dept
+                p= member.from.dept + ','
+              if member.from.uni
+                p= member.from.uni
     
 h1 Former Team members
 if previousMembers.length <= 0

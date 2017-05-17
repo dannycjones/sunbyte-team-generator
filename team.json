@@ -1,6 +1,5 @@
 {
-  "subTeams": [
-    {
+  "subTeams": [{
       "name": "project",
       "leader": {
         "name": "Yun Hang Cho",
@@ -53,11 +52,9 @@
       }
     }
   ],
-  "currentTeams": [
-    {
+  "currentTeams": [{
       "name": "Student Team",
-      "members": [
-        {
+      "members": [{
           "name": "Yun Hang Cho",
           "title": "Team Leader",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/04/image40-e1494320198500.jpg",
@@ -141,7 +138,7 @@
           "from": "University of Sheffield, UK"
         },
         {
-          "name": "Youssef EIAshry",
+          "name": "Youssef ElAshry",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/04/image65.jpg",
           "from": "University of Sheffield, UK"
         },
@@ -194,90 +191,144 @@
           "name": "Mohamed Yaqoob",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/04/image32.jpg",
           "from": "University of Sheffield, UK"
+        },
+        {
+          "name": "Godwin Okojie",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/18516596_10158652388290075_785832961_o.jpg",
+          "from": "Dept. of Mechanical Engineering, University of Sheffield, UK"
+        },
+        {
+          "name": "Iakov Bobrov",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/18519322_1302176843170197_784046461_o.jpg",
+          "from": "Dept. of Aerospace Engineering, University of Sheffield, UK"
         }
       ]
     },
     {
       "name": "Academic Advisors",
-      "members": [
-        {
+      "members": [{
           "name": "Dr Viktor Fedun",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/Viktor-Fedun.jpg",
-          "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
+          "from": {
+            "dept": "Dept. of Automatic Control & Systems Engineering",
+            "uni": "University of Sheffield, UK"
+          }
         },
         {
           "name": "Dr Gary Verth",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/Gary-Verth-e1494289999756.jpg",
-          "from": "School of Mathematics & Statistics, University of Sheffield, UK"
+          "from": {
+            "dept": "School of Mathematics & Statistics",
+            "uni": "University of Sheffield, UK"
+          }
         },
         {
           "name": "Dr Eamon Scullion",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/Eamon-Scullion.jpg",
-          "from": "Dept. of Mathematics, Physics & Electrical Engineering, Northumbria University, UK"
+          "from": {
+            "dept": "Dept. of Mathematics, Physics & Electrical Engineering",
+            "uni": "Northumbria University, UK"
+          }
         },
         {
           "name": "Dr Sergiy Shelyag",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/Sergiu-Shelyag.jpg",
-          "from": "Dept. of Mathematics, Physics & Electrical Engineering, Northumbria University, UK"
+          "from": {
+            "dept": "Dept. of Mathematics, Physics & Electrical Engineering",
+            "uni": "Northumbria University, UK"
+          }
         },
         {
           "name": "Dr Dave Jess",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/David-Jess-e1494319962608.jpg",
-          "from": "Dept. of Mathematics & Physics, Queens University Belfast, UK"
+          "from": {
+            "dept": "Dept. of Mathematics & Physics",
+            "uni": "Queens University Belfast, UK"
+          }
         },
         {
           "name": "Dr Sergei Zharkov",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/Sergei-Zharkov-e1494320000370.jpg",
-          "from": "Dept. of Physics & Astrophysics, University of Hull, UK"
+          "from": {
+            "dept": "Dept. of Physics & Astrophysics",
+            "uni": "University of Hull, UK"
+          }
         },
         {
           "name": "Dr George Panoutsos",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/George-Panoutsos-e1494320034671.jpg",
-          "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
+          "from": {
+            "dept": "Dept. of Automatic Control & Systems Engineering",
+            "uni": "University of Sheffield, UK"
+          }
         },
         {
           "name": "Dr James McLaughlin",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/James-Mclaughlin.jpg",
-          "from": "Dept. of Mathematics, Physics & Electrical Engineering, Northumbria University, UK"
+          "from": {
+            "dept": "Dept. of Mathematics",
+            "uni": "Physics & Electrical Engineering, Northumbria University, UK"
+          }
         },
         {
           "name": "Dr Richard Morton",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/Richard-Morton-e1494320076632.jpg",
-          "from": "Dept. of Mathematics, Physics & Electrical Engineering, Northumbria University, UK"
+          "from": {
+            "dept": "Dept. of Mathematics",
+            "uni": "Physics & Electrical Engineering, Northumbria University, UK"
+          }
         },
         {
           "name": "Dr Charles Lord",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/Charles-Lord.jpg",
-          "from": "Dept. of Mechanical Engineering, University of Sheffield, UK"
+          "from": {
+            "dept": "Dept. of Mechanical Engineering",
+            "uni": "University of Sheffield, UK"
+          }
+        },
+        {
+          "name": "Dr Ben Snow",
+          "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/Ben_Snow.png",
+          "from": {
+            "dept": "School of Mathematics & Statistics",
+            "uni": "University of Sheffield, UK"
+          }
         }
       ]
     },
     {
       "name": "Professional Support",
-      "members": [
-        {
+      "members": [{
           "name": "Mr Mark Wrigley",
           "from": "Alternative Photonics, UK"
         },
         {
           "name": "Mrs Jaye Taylor",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/Jaye-Taylor-e1494320638192.jpg",
-          "from": "Dept. of Automatic Control & Systems Engineering"
+          "from": {
+            "dept": "Dept. of Automatic Control & Systems Engineering",
+            "uni": "University of Sheffield, UK"
+          }
         },
         {
           "name": "Dr Stuart Wrigley",
           "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/04/s.wrigley.png",
-          "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
+          "from": {
+            "dept": "Dept. of Automatic Control & Systems Engineering",
+            "uni": "University of Sheffield, UK"
+          }
         },
         {
           "name": "Ms Megan Hobbs",
-          "from": "Dept. of Automatic Control & Systems Engineering, University of Sheffield, UK"
+          "from": {
+            "dept": "Dept. of Automatic Control & Systems Engineering",
+            "uni": "University of Sheffield, UK"
+          }
         }
       ]
     }
   ],
-  "previousMembers": [
-    {
+  "previousMembers": [{
       "name": "Christan Hare",
       "title": "Positioning, Stabilization & 3D Printing",
       "avatarURL": "http://sunbyte.group.shef.ac.uk/wp-content/uploads/2017/05/Chris-Hare-Electronic-and-Electrical-Engineer.jpg",
